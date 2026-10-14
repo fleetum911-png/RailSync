@@ -1,0 +1,7 @@
+train_number,train_name,route_station_ids,route_station_names,seats,fare_rupees
+12701,Charminar Express,"0;2;5","Hyderabad;Vijayawada;Chennai",900,650
+12702,Godavari Express,"0;1;2;3","Hyderabad;Warangal;Vijayawada;Visakhapatnam",850,700
+12703,Deccan Link,"0;7","Hyderabad;Bengaluru",700,600
+12704,Venkatadri Express,"2;5;6","Vijayawada;Chennai;Tirupati",800,550
+12705,Nagpur Intercity,"0;1;4","Hyderabad;Warangal;Nagpur",600,500
+12706,Southern Star,"3;2;5;7","Visakhapatnam;Vijayawada;Chennai;Bengaluru",750,900
